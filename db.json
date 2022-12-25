@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe"
+    },
+    {
+      "id": 2,
+      "first_name": "Doston",
+      "last_name": "Mamadaminov"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "artnumber": "Laptop",
+      "name": "Asus TUF Gaming",
+      "brand": "Asus",
+      "weight": 1300,
+      "quantity": 10,
+      "price": 800,
+      "stock": 1
+    },
+    {
+      "id": 2,
+      "artnumber": "Laptop",
+      "name": "HP nimadir",
+      "brand": "HP",
+      "weight": 1100,
+      "quantity": 30,
+      "price": 500,
+      "stock": 1
+    },
+    {
+      "id": 3,
+      "artnumber": "Laptop",
+      "name": "Acer Aspire",
+      "brand": "Acer",
+      "weight": 1400,
+      "quantity": 15,
+      "price": 700,
+      "stock": 1
+    },
+    {
+      "id": 4,
+      "artnumber": "Laptop",
+      "name": "Lenovo Ideapad 3",
+      "brand": "Lenovo",
+      "weight": 1200,
+      "quantity": 20,
+      "price": 300,
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "artnumber": "Laptop",
+      "name": "Dell XPS 17",
+      "brand": "Dell",
+      "weight": 2000,
+      "quantity": 12,
+      "price": 3400,
+      "stock": 1
+    },
+    {
+      "id": 6,
+      "artnumber": "Laptop",
+      "name": "MacBook Air M1",
+      "brand": "Apple",
+      "weight": 1000,
+      "quantity": 12,
+      "price": 2000,
+      "stock": 1
+    },
+    {
+      "id": 7,
+      "artnumber": "Laptop",
+      "name": "Lenovo Ideapad 5 Gaming PRO",
+      "brand": "Lenovo",
+      "weight": 1200,
+      "quantity": 12,
+      "price": 500,
+      "stock": 1
+    },
+    {
+      "id": 8,
+      "artnumber": "Laptop",
+      "name": "Asus X515JA",
+      "brand": "Asus",
+      "weight": 2000,
+      "quantity": 12,
+      "price": 3400,
+      "stock": 1
+    }
+  ]
+}
